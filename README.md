@@ -4,5 +4,6 @@
 
 - `index.html` — основная страница
 - `volume_multi_plotly.html` — совместимый alias с redirect на корень
+- `ozon_fbo_buyout.html` — статический срез Ozon FBO buyout (без автообновления)
 
 Публикация обновляется автоматически из приватного ETL-репозитория.
